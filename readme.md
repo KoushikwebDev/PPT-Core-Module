@@ -13,3 +13,5 @@ Absolute: Elements with absolute positioning are positioned relative to their ne
 ## 2. Explain what is execution context in detail with diagram.
 
 `Execution is the process of running a program's code to carry out its instructions. It involves steps such as compilation/interpretation, memory allocation, fetching instructions, decoding them, fetching operands, executing the instructions, storing results, and repeating the process until the program ends. During execution, the code is translated into actions, data is manipulated, and control flow is determined, ultimately resulting in the desired outcome of the program.`
+
+## 3. 5. Implement a CSS grid layout to display a gallery of images in a grid format for design refer the image shown below, replace the empty boxed with actual images
